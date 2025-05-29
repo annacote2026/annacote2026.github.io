@@ -3,18 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "annacote2026.github.io"
+  title: "Anna Cote"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+      - projects.qmd
+      - freeforall.qmd
+      
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
+    
 
 editor: visual
 

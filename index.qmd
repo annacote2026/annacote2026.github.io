@@ -1,8 +1,21 @@
 ---
-title: "annacote2026.github.io"
+title: "Anna Cote"
+image: media/headshot.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com
+    - text: GitHub
+      href: https://github.com/annacote-2026
+    - text: Email
+      href: mailto:annacote@ucsb.edu
 ---
 
-This is a Quarto website.
+Hi! I'm Anna! I'm currently a second year Environmental Studies student at UCSB looking to research agro-ecology professionally. I'm originally from Seattle, but have been loving the Califonria sun since I first arrived. In my free time you can find me outdoors climbing or backpacking, or spending a rainy day inside crocheting. Stick around to find out more!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
