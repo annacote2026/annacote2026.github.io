@@ -1,6 +1,6 @@
 ---
 title: "Anna Cote"
-image: media/headshot.jpeg
+image: annaheadshot.jpg
 toc: false
 about: 
   template: jolla
@@ -8,7 +8,7 @@ about:
   image-width: 17em
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com
+      href: https://www.linkedin.com/in/anna-cote-bb71a02ba/
     - text: GitHub
       href: https://github.com/annacote-2026
     - text: Email
