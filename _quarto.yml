@@ -10,19 +10,23 @@ website:
         text: Home
       - href: about.qmd
         text: About Me
-      - href: /resume_for_website.pdf
+      - href: /resume_for_website.pdf # file path for resume.pdf
         text: Resume
+        target: _blank # opening page in new browser tab
       - href: projects.qmd
         text: Projects
       - href: freeforall.qmd
         text: Free For All
+page-footer:
+  left: Copyright 2025, Anna Côté
 
       
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - cosmo
+      - styles.scss
     toc: true
     page-layout: full
     
