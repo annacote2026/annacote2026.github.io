@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>My Blog – Anna Côté</title>
+<title>My Projects – Anna Côté</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -161,16 +161,12 @@ window.Quarto = {
 <span class="menu-text">Resume</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
-<span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./freeforall.html"> 
 <span class="menu-text">Free For All</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./posts.html" aria-current="page"> 
-<span class="menu-text">My Blog</span></a>
+<span class="menu-text">My Projects</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -185,13 +181,13 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">My Blog</h1>
+<h1 class="title">My Projects</h1>
 </div>
 
 
@@ -214,27 +210,33 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1749508650670" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./posts/posts.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="Quarto,R" data-listing-date-sort="1749452400000" data-listing-file-modified-sort="1749513085598" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1916">
+<a href="./posts/2025-YCT/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2025-YCT/YCTtree.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-My Blog
+Your Children’s Trees Elings Park Project
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Quarto'); return false;">
+Quarto
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
+</div>
 <div class="card-text listing-description">
-
-<div class="list grid quarto-listing-cols-3">
-
+Interning with Your Children’s Trees (YCT) and working on an urban reforestation project in Elings Park to bring shade to the Valerio Trail.
 </div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-
-</div>
-<div class="card-attribution card-text-small start">
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
-
+Anna Côté
+</div>
+<div class="listing-date">
+Jun 9, 2025
 </div>
 </div>
 </div>
