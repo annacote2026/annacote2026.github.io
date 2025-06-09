@@ -19,6 +19,4 @@ Hi! I'm Anna! I'm currently finishing out my second year as an Environmental Stu
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-usethis::use_git()
-```
+
