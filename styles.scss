@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+//Colors
+$light-brown: burlywood;
+$cream: linen;
+$olive: olivedrab;
+$dark-brown: #A65B00;
+
+//Edits
+$body-bg: $cream; // page background
+$link-color: $dark-brown; // hyperlinks
+$navbar-bg: $olive; // navbar
+$footer-bg: $light-brown; // footer
+
+/*-- scss:rules --*/

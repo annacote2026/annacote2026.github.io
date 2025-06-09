@@ -1,16 +1,37 @@
 [
   {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "My Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/posts.html",
+    "href": "posts/posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "No matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Anna Côté",
     "section": "",
-    "text": "Hi! I’m Anna! I’m currently finishing out my second year as an Environmental Studies (BS) student at UCSB looking to enter the field of agro-ecology and forestry professionally. I’m originally from Seattle, but have been loving the California sun since I first arrived. In my free time you can find me outdoors climbing, backpacking, scuba diving and enjoying live music, or spending a rainy day inside crocheting and making New York Times Cooking recipes. Also, I generally prefer dogs to people, but I occasionally make exceptions. Stick around to find out more!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi! I’m Anna! I’m currently finishing out my second year as an Environmental Studies (BS) student at UCSB looking to enter the field of agro-ecology and forestry professionally. I’m originally from Seattle, but have been loving the California sun since I first arrived. In my free time you can find me outdoors climbing, backpacking, scuba diving or enjoying live music, or spending a rainy day inside crocheting and making New York Times Cooking recipes. Also, I generally prefer dogs to people, but I occasionally make exceptions. Stick around to find out more!"
+  },
+  {
+    "objectID": "posts/2025-YCT/index.html",
+    "href": "posts/2025-YCT/index.html",
+    "title": "Your Childrens Trees Elings Park Project",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{cote2025,\n  author = {Cote, Anna},\n  title = {Your {Childrens} {Trees} {Elings} {Park} {Project}},\n  date = {2025-06-09},\n  url = {https://annacote.github.io/posts/2025-YCT},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nCote, Anna. 2025. “Your Childrens Trees Elings Park\nProject.” June 9, 2025. https://annacote.github.io/posts/2025-YCT."
   }
 ]

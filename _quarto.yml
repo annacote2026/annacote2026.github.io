@@ -17,6 +17,8 @@ website:
         text: Projects
       - href: freeforall.qmd
         text: Free For All
+      - href: posts.qmd
+      
 page-footer:
   left: Copyright 2025, Anna Côté
 
@@ -27,6 +29,8 @@ format:
     theme: 
       - cosmo
       - styles.scss
+    mainfont: EB Garamond
+    css: styles.css
     toc: true
     page-layout: full
     

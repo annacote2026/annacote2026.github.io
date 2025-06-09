@@ -1,0 +1,15 @@
+---
+title: "Your Childrens Trees Elings Park Project"
+description: "Interning with Your Childrens Trees (YCT) and working on an urban reforestation project in Elings Park to bring shade to the Valerio Trail"
+author:
+  - name: Anna Cote
+    url: https://annacote.github.io/
+    affiliation: Bachelor of Environmental Studies Program @ The College of Letters and Sciences (UCSB)
+date: 06-09-2025
+categories: [Quarto, R]
+citation:
+  url: https://annacote.github.io/posts/2025-YCT
+image: YCTtree.jpg
+draft: false
+---
+

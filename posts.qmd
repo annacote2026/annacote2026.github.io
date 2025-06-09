@@ -1,0 +1,10 @@
+---
+title: "My Blog"
+format: html
+listing: 
+  contents: posts.qmd
+  type: grid
+  sort: "date desc"
+  categories: true
+---
+
