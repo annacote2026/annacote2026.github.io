@@ -1,6 +1,6 @@
 ---
 title: "Anna Côté"
-image: media/profile.jpg
+image: media/profile.JPEG
 toc: false
 about: 
   template: jolla
