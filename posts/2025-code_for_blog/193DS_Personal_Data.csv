@@ -1,0 +1,32 @@
+Date,Time,Genre,Mood,Mood association,Listening with people?,Method of listening,Selection of music,Playlist?
+4/20,13:00,house,energetic,positive,no,car,manual,yes
+4/20,22:00,alternative,focused,neutral,no,headphones,manual,no
+4/21,17:00,reggae,relaxed,neutral,no,headphones,auto-generated,yes
+4/22,7:30,surf rock,upbeat,positive,no,car,auto-generated,yes
+4/22,20:00,reggae,social,positive,yes,car,auto-generated,yes
+4/23,15:20,folk,tired,neutral,no,headphones,auto-generated,yes
+4/24,12:15,folk,tired,neutral,no,car,manual,no
+4/25,9:00,house,excited,positive,yes,car,manual,yes
+4/30,17:15,house,tired,neutral,no,car,manual,yes
+5/4,13:30,folk,sad,negative,no,car,manual,yes
+5/6,14:00,folk,focused,neutral,no,headphones,manual,yes
+5/7,12:30,surf rock,overwhelmed,negative,no,headphones,auto-generated,yes
+5/8,13:00,alternative,anxious,negative,no,speaker,auto-generated,yes
+5/10,8:30,country,relaxed,neutral,no,car,manual,no
+5/11,16:40,house,upbeat,positive,no,car,auto-generated,yes
+5/12,10:30,house,energetic,positive,yes,car,auto-generated,yes
+5/13,9:00,folk,focused,neutral,no,headphones,manual,yes
+5/14,20:45,surf rock,lethargic,negative,no,headphones,auto-generated,yes
+5/15,10:20,folk,bored,neutral,no,headphones,manual,yes
+5/16,17:00,folk,stressed,negative,no,headphones,manual,yes
+5/18,19:00,reggae,lazy,neutral,no,car,manual,yes
+5/19,9:00,folk,energetic,positive,yes,headphones,manual,yes
+5/20,15:30,country,calm,positive,no,car,manual,yes
+5/21,21:00,alternative,tired,neutral,no,car,auto-generated,yes
+5/22,7:45,house,stressed,negative,no,car,auto-generated,yes
+5/23,22:00,folk,anxious,negative,no,car,auto-generated,yes
+5/24,11:00,surf rock,excited,positive,yes,car,manual,yes
+5/25,15:00,pop,elated,positive,yes,speaker,manual,yes
+5/26,11:30,country,tired,neutral,yes,car,manual,yes
+5/27,12:00,alternative,tired,neutral,no,headphones,auto-generated,yes
+5/27,19:50,folk,sad,negative,no,headphones,manual,no
