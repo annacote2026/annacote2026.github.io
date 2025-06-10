@@ -14,7 +14,7 @@ website:
         text: Resume
         target: _blank # opening page in new browser tab
       - href: freeforall.qmd
-        text: Free For All
+        text: Food for Thought
       - href: posts.qmd
       
 page-footer:
