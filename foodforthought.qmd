@@ -1,0 +1,10 @@
+---
+title: "Food for Thought"
+format: html
+listing: 
+  contents: gallery
+  type: grid
+  sort: "date desc"
+  categories: true
+---
+

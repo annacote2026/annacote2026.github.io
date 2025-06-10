@@ -13,9 +13,8 @@ website:
       - href: /resume_for_website.pdf # file path for resume.pdf
         text: Resume
         target: _blank # opening page in new browser tab
-      - href: freeforall.qmd
-        text: Food for Thought
       - href: posts.qmd
+      - href: foodforthought.qmd
       
 page-footer:
   left: "Copyright 2025, Anna Côté"

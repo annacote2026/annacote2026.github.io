@@ -9,5 +9,11 @@
   {
     "listing": "/posts/posts.html",
     "items": []
+  },
+  {
+    "listing": "/foodforthought.html",
+    "items": [
+      "/gallery/2025-food-gallery/index.html"
+    ]
   }
 ]

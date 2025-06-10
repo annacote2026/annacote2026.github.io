@@ -1,0 +1,30 @@
+---
+title: "2025"
+format: 
+  html:
+    css: styles.css
+---
+# Here are my favorite bites from this year (some homemade, some not, all thoroughly enjoyed)!
+
+::: {.image-grid}
+
+![](foodpics/gallery1.jpg)
+![](foodpics/gallery2.jpg)
+![](foodpics/gallery3.jpg)
+![](foodpics/gallery4.jpg)
+![](foodpics/gallery5.jpg)
+![](foodpics/gallery6.jpg)
+![](foodpics/gallery7.jpg)
+![](foodpics/gallery8.jpg)
+![](foodpics/gallery9.jpg)
+![](foodpics/gallery10.jpg)
+![](foodpics/gallery11.jpg)
+![](foodpics/gallery12.jpg)
+![](foodpics/gallery13.jpg)
+![](foodpics/gallery14.jpeg)
+![](foodpics/gallery15.jpg)
+![](foodpics/gallery16.jpg)
+![](foodpics/gallery17.jpg)
+![](foodpics/gallery18.jpg)
+![](foodpics/gallery19.jpg)
+:::
